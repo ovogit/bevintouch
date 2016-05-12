@@ -1,0 +1,12 @@
+{
+  "name": "oakframe",
+  "version": "0.1",
+  "dependencies": {
+    "modernizr": "latest",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest",
+    "requirejs": "latest",
+    "bootstrap": "latest",
+    "jquery": "latest"
+  }
+}
